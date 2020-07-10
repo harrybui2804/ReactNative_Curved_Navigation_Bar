@@ -17,11 +17,11 @@ Getting Started
 
 
 2 | Install Rn curved navigation bar <br>
-`npm i rn-curved-navigation-bar`
+`npm i --save rn-curved-navigation-bar@git+https://git@github.com/harrybui2804/ReactNative_Curved_Navigation_Bar.git`
 
 or
 
-`yarn add rn-curved-navigation-bar`
+`yarn add rn-curved-navigation-bar@git+https://git@github.com/harrybui2804/ReactNative_Curved_Navigation_Bar.git`
 
 Props
 ---------
